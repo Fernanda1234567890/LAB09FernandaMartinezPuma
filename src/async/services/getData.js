@@ -4,6 +4,4 @@
   
   const data = await response.json();
 
-  console.log(data);
-
-})();
+  console.log(data); { id: 1, title: 'iPhone 9', description: 'An apple mobile witch is nothing like apple', price: 549, discountPercentage: 12.6};
